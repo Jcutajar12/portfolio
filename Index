@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html>
+<head>
+	<title> My website</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+	<header>
+		<div class="container">
+			<h1> Joe Cutajar </h1>
+
+			<nav> 
+				<ul>
+					<li> <a href="about_me.html">About Me</a> </li>
+				</ul>
+			</nav>
+
+		</div>
+	</header>
+
+	<section>
+		<div class="firstSection">
+			<h1>Joe Cutajar's Portfolio</h1>
+		</div>
+	</section>
+
+	<section>
+		<div class="sticky">
+			<img src = "sticky.jpg">
+			<h2> <a href="#">HTTP, CSS, Javascript <br>Devopler</a> </h2>
+		</div>
+
+		<divc class="secondsticky">
+
+			<img src = "sticky.jpg">
+			<h2> <a href="#">c# Devopler</a> </h2>
+		</div>
+
+		<div class="thirdsticky">
+			<img src = "sticky.jpg">
+			<h2> <a href="#"> Java Devolper</a> </h2>
+		</div>
+	</section>
+
+</body>
+
+</html>
