@@ -1,0 +1,103 @@
+body {
+	margin: 0px;
+	background-image: url("wood.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header .container {
+	width: 100%;
+	min-height:100px;
+	background-color: black;
+}
+
+header h1 {
+	margin: 0px;
+	display: inline;	
+	float: left;
+	padding: 10px;
+	color: #FF851B;
+	
+}
+
+nav ul {
+	margin: 0px;
+	display: inline;
+	float:right;
+	
+}
+
+nav ul li{
+	list-style-type: none;
+	display:inline-block;
+	padding: 15px;
+}
+
+nav ul li a {
+	color: white;
+	
+}
+
+.firstsection {
+
+	min-height: 100px;
+}
+
+.firstSection h1 {
+	outline-color: black;
+	position: relative;
+	bottom:80px;
+	left: 10px;
+	font-size: 100px;
+	text-align: center;
+	color: white;
+	font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+	
+}
+
+
+.sticky {
+	margin: 0px
+	color: white;
+}
+
+.sticky h2 {
+	color: black;
+	position: relative;
+	right: 275px;
+	top: 100px;
+	
+}
+
+.sticky img {
+	margin: 0px;
+	float: left;
+}
+
+.secondsticky img{
+	position:relative;
+	top: 20px;
+	left: 150px;
+}
+
+.secondsticky  h2 {
+	position: relative;
+	bottom:150px;
+	left: 550px;
+}
+
+
+.thirdsticky img {
+	position:relative;
+	top: -200px;
+	left: 900px;
+	margin:0px;
+}
+
+.thirdsticky h2 {
+	position: relative;
+	left: 1000px;
+	bottom: 400px;
+	width:50px;
+	
+}
