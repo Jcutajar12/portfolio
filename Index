@@ -20,28 +20,32 @@
 		</div>
 	</header>
 
-	<section>
+	<section >
 		<div class="firstSection">
 			<h1>Joe Cutajar's Portfolio</h1>
 		</div>
 	</section>
 
 	<section>
+		
+	<div class="container">
 		<div class="sticky">
-			<img src = "sticky.jpg">
+			
+			<img src="sticky.jpg"/>
 			<h2> <a href="#">HTTP, CSS, Javascript <br>Devopler</a> </h2>
 		</div>
 
-		<divc class="secondsticky">
+		<div class="secondsticky">
 
-			<img src = "sticky.jpg">
+			<img src="sticky.jpg"/>
 			<h2> <a href="#">c# Devopler</a> </h2>
 		</div>
 
 		<div class="thirdsticky">
-			<img src = "sticky.jpg">
+			<img src="sticky.jpg"/>
 			<h2> <a href="#"> Java Devolper</a> </h2>
 		</div>
+	</div>
 	</section>
 
 </body>
